@@ -1,0 +1,4 @@
+'The tax number provided is incorrect': 'Podany NIP jest niepoprawny'
+'The tax number provided is too short': 'Podany NIP jest za krótki'
+'The tax number provided is too long': 'Podany NIP jest za długi'
+'The tax number provided contains not permitted characters': 'Podany NIP zawiera niedozwolone znaki'

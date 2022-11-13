@@ -1,0 +1,4 @@
+'The tax number provided is incorrect': 'The tax number provided is incorrect'
+'The tax number provided is too short': 'The tax number provided is too short'
+'The tax number provided is too long': 'The tax number provided is too long'
+'The tax number provided contains not permitted characters': 'The tax number provided contains not permitted characters'
